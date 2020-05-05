@@ -3,11 +3,11 @@
 </p>
 <hr/>
 
-1. [Projeto]()
-2. [Layout]()
-3. [Contribuições]()
+1. [Projeto](1)
+2. [Layout](2)
+3. [Contribuições](3)
 
-## 1.Projeto/Desafio
+### 1.Projeto/Desafio
 
 Projeto desenvolvido durante o 2º Megahack da Shawee, no intuito de sanar as necessidades do desafio da TV Globo. O desafio consistia em:
   
@@ -15,10 +15,10 @@ Projeto desenvolvido durante o 2º Megahack da Shawee, no intuito de sanar as ne
 
 [Apresentação do Projeto](https://drive.google.com/open?id=1YOU59cC9uZBhNFJVcOh6-bFlOpt-4XAB)
 
-## 2.Layout
+### 2.Layout
 
 
-## 3.Contribuições
+### 3.Contribuições
 
 <table align="center">
   <thead>
