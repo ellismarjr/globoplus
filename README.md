@@ -17,6 +17,13 @@ Projeto desenvolvido durante o 2º Megahack da Shawee, no intuito de sanar as ne
 
 ### 2.Layout
 
+<img src="https://github.com/ellismarjr/globoplus/blob/master/assets/SplashScreen.png" alt="" width="200px"> <img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Onboarding%201.png" alt="" width="200px"> <img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Onboarding%202.png" alt="" width="200px"> <img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Register.png" alt="" width="200px"> 
+<img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Login.png" alt="" width="200px"> 
+<img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Recomendados.png" alt="" width="200px"> 
+<img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Conta.png" alt="" width="200px"> 
+<img src="https://github.com/ellismarjr/globoplus/blob/master/assets/Configura%C3%A7%C3%B5es.png" alt="" width="200px">
+
+#### [Link para o Protótipo navegável](https://www.figma.com/proto/xJKHkzo6raoHQJnIfzTIqw/App-Globo-Plus?node-id=0%3A1&scaling=scale-down)
 
 ### 3.Contribuições
 
