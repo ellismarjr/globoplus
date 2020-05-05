@@ -3,9 +3,9 @@
 </p>
 <hr/>
 
-1. [Projeto](1)
-2. [Layout](2)
-3. [Contribuições](3)
+1. Projeto
+2. Layout
+3. Contribuições
 
 ### 1.Projeto/Desafio
 
