@@ -3,9 +3,9 @@
 </p>
 <hr/>
 
-1. Projeto
-2. Layout
-3. Contribuições
+1. [Projeto](https://github.com/ellismarjr/globoplus/blob/master/README.md#1projetodesafio)
+2. [Layout](https://github.com/ellismarjr/globoplus/blob/master/README.md#2layout)
+3. [Contribuições](https://github.com/ellismarjr/globoplus/blob/master/README.md#3contribui%C3%A7%C3%B5es)
 
 ### 1.Projeto/Desafio
 
